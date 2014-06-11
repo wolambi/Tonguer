@@ -1,0 +1,25 @@
+<div id="content" class="termsofusecontent">
+	<section>
+		<h2>Terms of use</h2>
+		<ol>
+			<li>Thanks for using our services, by using our Services, you are agreeing to these terms. Please read them carefully.</li>
+			<li>You must follow any policies made available to you within the Services.</li>
+			<li>Don’t misuse our Services. For example, don’t interfere with our Services or try to access them using a method other than the interface and the instructions that we provide. You may use our Services only as permitted by law, including applicable export and re-export control laws and regulations. We may suspend or stop providing our Services to you if you do not comply with our terms or policies or if we are investigating suspected misconduct.</li>
+			<li>Our Services display some content that is not Tonguer’s. This content is the sole responsibility of the entity that makes it available. We may review content to determine whether it is illegal or violates our policies, and we may remove or refuse to display content that we reasonably believe violates our policies or the law. But that does not necessarily mean that we review content, so please don’t assume that we do.</li>
+			<li>In connection with your use of the Services, we may send you service announcements, administrative messages, and other information. You may opt out of some of those communications.</li>
+			<li>To protect your Tonguer Account, keep your password confidential. You are responsible for the activity that happens on or through your Tonguer Account. Try not to reuse your Tonguer Account password on third-party applications. If you learn of any unauthorized use of your password or Tonguer Account, contact admin.</li>
+			<li>Some of our Services allow you to upload, submit, store, send or receive content. You retain ownership of any intellectual property rights that you hold in that content. In short, what belongs to you stays yours.</li>
+			<li>We are constantly changing and improving our Services. We may add or remove functionalities or features, and we may suspend or stop a Service altogether.</li>
+			<li>You can stop using our Services at any time, although we’ll be sorry to see you go. Tonguer may also stop providing Services to you, or add or create new limits to our Services at any time.</li>
+			<li>We believe that you own your data and preserving your access to such data is important. If we discontinue a Service, where reasonably possible, we will give you reasonable advance notice and a chance to get information out of that Service.</li>
+			<li>When permitted by law, Tonguer, and Tonguer’s suppliers and distributors, will not be responsible for lost profits, revenues, or data, financial losses or indirect, special, consequential, exemplary, or punitive damages.</li>
+			<li>To the extent permitted by law, the total liability of Tonguer, and its suppliers and distributors, for any claims under these terms, including for any implied warranties, is limited to the amount you paid us to use the services (or, if we choose, to supplying you the services again).</li>
+			<li>In all cases, Tonguer, and its suppliers and distributors, will not be liable for any loss or damage that is not reasonably foreseeable.</li>
+			<li>If you are using our Services on behalf of a business, that business accepts these terms. It will hold harmless and indemnify Tonguer and its affiliates, officers, agents, and employees from any claim, suit or action arising from or related to the use of the Services or violation of these terms, including any liability or expense arising from claims, losses, damages, suits, judgments, litigation costs and attorneys’ fees.</li>
+			<li>We may modify these terms or any additional terms that apply to a Service to, for example, reflect changes to the law or changes to our Services. You should look at the terms regularly. We’ll post notice of modifications to these terms on this page. We’ll post notice of modified additional terms in the applicable Service. Changes will not apply retroactively and will become effective no sooner than fourteen days after they are posted. However, changes addressing new functions for a Service or changes made for legal reasons will be effective immediately. If you do not agree to the modified terms for a Service, you should discontinue your use of that Service.</li>
+			<li>If there is a conflict between these terms and the additional terms, the additional terms will control for that conflict.</li>
+			<li>If you do not comply with these terms, and we don’t take action right away, this doesn’t mean that we are giving up any rights that we may have (such as taking action in the future).</li>
+			<li>If it turns out that a particular term is not enforceable, this will not affect any other terms.</li>
+		</ol>
+	</section>
+</div>
